@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.regular, .fancy{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.regular {
+    background-color: rgb(18, 8, 8);
+    color: #f6f2f2;
+
+}
+
+.fancy{
+    background-color: lab(97.44% -19.15 75.5);
+}
+
+    
